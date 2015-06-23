@@ -8,6 +8,8 @@ int _tmain(int argc, _TCHAR* argv[])
 {
     test_uadd_ok();
 
+    test_tadd_ok();
+
     return 0;
 }
 
