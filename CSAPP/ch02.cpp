@@ -2,7 +2,6 @@
 #include "Header.h"
 #include <stdio.h>
 
-
 //判断两个无符号整数相加是否溢出
 int uadd_ok(unsigned x, unsigned y)
 {
